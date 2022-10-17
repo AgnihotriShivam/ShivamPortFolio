@@ -58,8 +58,8 @@ const about = {
   imageLink: require("../editable-stuff/shivam1.jpg"),
   imageSize: 375,
   message:
-      "Hi I am Shivam Agnihotri. A passionate DevOps and Infrastructure Specialist from India. I carry 6+ years of experience on various skills like AWS (EC2, S3, VPC, Route53, IAM, Security groups, ELB, ACM, RDS), Python (boto3), Docker/ECS Kubernetes/EKS. Having experience on CI/CD pipelines for code deployment using Git, Code Pipeline, Terraform. Having experience on Linux administration, onboarding project on AWS, Trusted advisor.",
-  resume: "https://drive.google.com/file/d/1n1BP8V_QTM3D4rJBSOsBk7Yegdtf19aD/view?usp=sharing",
+      "Hi I am Shivam Agnihotri. 6+ years of Complete hands on experience on various skills like AWS services (multiple account management), Python(boto3), Docker/ECS Kubernatics/EKS . Having experience on CI/CD pipelines for code deployment using Git, Code Pipeline, Jenkins, Terraform, Terratest, Bitbucket and Linux administration.",
+  resume: "https://drive.google.com/file/d/1ohn4-aP5XQB25U1uUX0CKWorrV4NYOcP/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -103,6 +103,12 @@ const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+    {
+      role: 'Global Payments Inc. - Sr. DevOps Engineer',
+      companylogo: require('../assets/img/gpay.png'),
+      date: 'Feb 2022 – Present',
+    },
+    
     {
       role: 'Birla soft - Sr. Consultant',
       companylogo: require('../assets/img/bcl.png'),
