@@ -1,27 +1,18 @@
 {
   "files": {
-    "main.css": "/ShivamPortFolio/static/css/main.956fad23.chunk.css",
-    "main.js": "/ShivamPortFolio/static/js/main.f2410cd2.chunk.js",
-    "main.js.map": "/ShivamPortFolio/static/js/main.f2410cd2.chunk.js.map",
-    "runtime-main.js": "/ShivamPortFolio/static/js/runtime-main.ee56ad93.js",
-    "runtime-main.js.map": "/ShivamPortFolio/static/js/runtime-main.ee56ad93.js.map",
-    "static/js/2.d720fc91.chunk.js": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js",
-    "static/js/2.d720fc91.chunk.js.map": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js.map",
+    "main.css": "/ShivamPortFolio/static/css/main.0f20866f.css",
+    "main.js": "/ShivamPortFolio/static/js/main.185f2b84.js",
+    "static/media/shivam2.jpg": "/ShivamPortFolio/static/media/shivam2.ccb129582a2dc2eead7a.jpg",
+    "static/media/shivam1.jpg": "/ShivamPortFolio/static/media/shivam1.e31528be6547e76845ba.jpg",
+    "static/media/ShivamResume.pdf": "/ShivamPortFolio/static/media/ShivamResume.c82646d1539ef9879d81.pdf",
+    "static/media/bcl.png": "/ShivamPortFolio/static/media/bcl.250f67f31237d284fb99.png",
+    "static/media/tsystems1.png": "/ShivamPortFolio/static/media/tsystems1.977114a9aed20263d01c.png",
     "index.html": "/ShivamPortFolio/index.html",
-    "precache-manifest.eb42e6ac6f9038fce2b5e3723583d1d1.js": "/ShivamPortFolio/precache-manifest.eb42e6ac6f9038fce2b5e3723583d1d1.js",
-    "service-worker.js": "/ShivamPortFolio/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/ShivamPortFolio/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.d720fc91.chunk.js.LICENSE.txt": "/ShivamPortFolio/static/js/2.d720fc91.chunk.js.LICENSE.txt",
-    "static/media/ShivamResume.pdf": "/ShivamPortFolio/static/media/ShivamResume.e363fd35.pdf",
-    "static/media/bcl.png": "/ShivamPortFolio/static/media/bcl.5cfbec02.png",
-    "static/media/shivam1.jpg": "/ShivamPortFolio/static/media/shivam1.33e13362.jpg",
-    "static/media/shivam2.jpg": "/ShivamPortFolio/static/media/shivam2.fce552a8.jpg",
-    "static/media/tsystems1.png": "/ShivamPortFolio/static/media/tsystems1.8b30ea39.png"
+    "main.0f20866f.css.map": "/ShivamPortFolio/static/css/main.0f20866f.css.map",
+    "main.185f2b84.js.map": "/ShivamPortFolio/static/js/main.185f2b84.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee56ad93.js",
-    "static/js/2.d720fc91.chunk.js",
-    "static/css/main.956fad23.chunk.css",
-    "static/js/main.f2410cd2.chunk.js"
+    "static/css/main.0f20866f.css",
+    "static/js/main.185f2b84.js"
   ]
 }
